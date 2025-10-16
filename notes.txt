@@ -1,0 +1,5 @@
+urls.py (project) --> urls.py(app) --> views.py
+
+http://127.0.0.1:8000  --> Home page
+http://127.0.0.1:8000/contact-us/  --> contact
+http://127.0.0.1:8000/about/   --> about
